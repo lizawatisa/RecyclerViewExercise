@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecycleViewExercise</string>
+    <string-array name="title">
+        <item>Putrajaya</item>
+        <item>Kuala Lumpur</item>
+        <item>Batu Caves</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Putrajaya has Putra Mosque</item>
+        <item>Kuala Lumpur has KLCC</item>
+        <item>Tempat keagamaan boleh lawat untuk naik tangga yang banyak</item>
+    </string-array>
+
+    <string-array name="pictures">
+        <item>@drawable/putra_jaya</item>
+        <item>@drawable/klcc</item>
+        <item>@drawable/batu_caves</item>
+    </string-array>
+
+</resources>
